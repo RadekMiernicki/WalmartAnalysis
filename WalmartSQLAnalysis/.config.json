@@ -1,8 +1,0 @@
-{
-    "Walmart" : {
-        "user":"master",
-        "password":"masterpassword",
-        "host":"localhost",
-        "database":"Walmart" 
-    }
-}
