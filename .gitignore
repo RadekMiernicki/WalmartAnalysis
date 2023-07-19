@@ -1,6 +1,6 @@
 .DS_Store
 .git
-.confg
+.confg*
 .env
 .ipynb
 
